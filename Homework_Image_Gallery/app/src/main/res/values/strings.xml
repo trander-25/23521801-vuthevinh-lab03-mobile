@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework_Image_Gallery</string>
+    <string name="search_hint">Search by detected objects</string>
+    <string name="retry">Retry</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="ai_tags_label">Detected objects: %1$s</string>
+</resources>
